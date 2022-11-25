@@ -10,7 +10,7 @@ Este es un curso de php desde cero, en el que aprenderemos a programar en php de
 ## Tabla de contenidos 📋
 
 - [Ejercicios](https://github.com/VictorDeGallegos/curso1-php)
-- [Proyecto](https://github.com/VictorDeGallegos/curso1-php)
+- [Proyecto](https://github.com/VictorDeGallegos/curso1-php/tree/proyecto)
 
 ## Proyecto
 
