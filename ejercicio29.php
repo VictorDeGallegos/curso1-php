@@ -6,7 +6,7 @@ $contrasenia = "";
 
 
 try {
-    $conexion = new PDO("mysql:host=$servidor;dbname=album", $usuario, $contrasenia);
+    $conexion = new PDO("mysql:host=$servidor;dbname=album2", $usuario, $contrasenia);
     $conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $sql = "SELECT * FROM `fotos`";

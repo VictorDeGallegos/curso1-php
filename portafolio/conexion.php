@@ -10,7 +10,7 @@ class conexion
     public function __construct()
     {
         try {
-            $this->conexion = new PDO("mysql:host=$this->host;dbname=album", $this->usuario, $this->password);
+            $this->conexion = new PDO("mysql:host=$this->host;dbname=album2", $this->usuario, $this->password);
             $this->conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         } catch (PDOException $e) {
             echo "Falla de conexión: " . $e->getMessage();

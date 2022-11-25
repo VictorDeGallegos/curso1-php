@@ -21,7 +21,7 @@ if (isset($_SESSION['usuario']) != "admin") {
 </head>
 
 <body>
-    <h1>Portafolio</h1>
+
 
     <div class="container">
 
